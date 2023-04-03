@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class test {
+public class test {
+
+    TemperatureConverter t = new TemperatureConverter();
+
 }
